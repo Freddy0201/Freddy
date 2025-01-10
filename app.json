@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Aiden149/-_-",
+  "repository": "https://github.com/Freddy0201/Freddy",
   "stack": "container",
   "env": {
     "OWNERS": {
@@ -65,7 +65,7 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "SILVA MD BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇-𝐌𝐃 SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
