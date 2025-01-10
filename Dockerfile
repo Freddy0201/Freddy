@@ -1,6 +1,6 @@
 FROM quay.io/gurusensei/gurubhay:latest
 
-RUN git clone https://github.com/Aiden149/-_- /root/sylivanus
+RUN git clone https://github.com/Freddy0201/Freddy/root/sylivanus
 
 WORKDIR /root/sylivanus/
 
