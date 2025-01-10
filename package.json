@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Aiden149/-_-",
+    "homepage": "https://github.com/Freddy0201/Freddy",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aiden149/-_-.git"
+        "url": "git+https://github.com/Freddy0201/Freddy.git"
     },
     "bugs": {
-        "url": "https://github.com/Aiden149/-_-/issues"
+        "url": "https://github.com/Freddy0201/Freddy/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
