@@ -384,7 +384,7 @@ async function connectionUpdate(update) {
 
   if (connection === 'open') {
     const { jid, name } = conn.user
-    const msg = `𝑺𝑰𝑳𝑽𝑨 𝑩𝑶𝑻 \nHai🤩 ${name}, Congrats you have successfully deployed SILVA-BOT\n  ✅ *Bot Connection Status:* \n     *Silva MD Bot* successfully connected to this device! \n\n  ⚙️ *Prefix:*  \n\n  👨‍💻 *Creator:* *Silva* \n  🏢 *Organization:* *Silva Tech Hazard Inc.* \n  🗓️ *Updated:* *2024* \n\n  🌟 *Join our WhatsApp Channel for updates:* \n  https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v \n\n  🔄 *Stay tuned for upcoming features!* \n\n𝑺𝑰𝑳𝑽𝑨 𝑩𝑶𝑻`
+    const msg = `𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇 \nHai🤩 ${name}, Congrats you have successfully deployed SILVA-BOT\n  ✅ *Bot Connection Status:* \n     *Silva MD Bot* successfully connected to this device! \n\n  ⚙️ *Prefix:*  \n\n  👨‍💻 *Creator:* *Silva* \n  🏢 *Organization:* *Silva Tech Hazard Inc.* \n  🗓️ *Updated:* *2024* \n\n  🌟 *Join our WhatsApp Channel for updates:* \n  https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v \n\n  🔄 *Stay tuned for upcoming features!* \n\n𝑺𝑰𝑳𝑽𝑨 𝑩𝑶𝑻`
 
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
 
